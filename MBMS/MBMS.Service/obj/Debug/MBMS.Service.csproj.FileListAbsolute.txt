@@ -1,0 +1,5 @@
+C:\Users\liangm\Documents\GitHub\MBMS\MBMS\MBMS.Service\bin\Debug\MBMS.Service.dll
+C:\Users\liangm\Documents\GitHub\MBMS\MBMS\MBMS.Service\bin\Debug\MBMS.Service.pdb
+C:\Users\liangm\Documents\GitHub\MBMS\MBMS\MBMS.Service\obj\Debug\MBMS.Service.csprojResolveAssemblyReference.cache
+C:\Users\liangm\Documents\GitHub\MBMS\MBMS\MBMS.Service\obj\Debug\MBMS.Service.dll
+C:\Users\liangm\Documents\GitHub\MBMS\MBMS\MBMS.Service\obj\Debug\MBMS.Service.pdb
