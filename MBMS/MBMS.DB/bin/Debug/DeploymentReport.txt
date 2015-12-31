@@ -1,0 +1,26 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Drop
+       Permission (Permission)
+       Permission (Permission)
+       Permission (Permission)
+       Role Membership: <unnamed> (Role Membership)
+       Role Membership: <unnamed> (Role Membership)
+       Role Membership: <unnamed> (Role Membership)
+     Create
+       [dbo].[Order] (Table)
+       [dbo].[User] (Table)
+
+** Supporting actions
+
+The project and target databases have different collation settings. Deployment errors might occur.
+

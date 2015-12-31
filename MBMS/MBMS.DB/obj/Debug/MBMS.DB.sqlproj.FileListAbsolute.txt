@@ -3,3 +3,7 @@ C:\Users\liangm\Documents\GitHub\MBMS\MBMS\MBMS.DB\bin\Debug\MBMS.DB.dll
 C:\Users\liangm\Documents\GitHub\MBMS\MBMS\MBMS.DB\bin\Debug\MBMS.DB.pdb
 C:\Users\liangm\Documents\GitHub\MBMS\MBMS\MBMS.DB\obj\Debug\MBMS.DB.dll
 C:\Users\liangm\Documents\GitHub\MBMS\MBMS\MBMS.DB\obj\Debug\MBMS.DB.pdb
+C:\Users\liangm\Documents\GitHub\MBMS\MBMS\MBMS.DB\obj\Debug\Model.xml
+C:\Users\liangm\Documents\GitHub\MBMS\MBMS\MBMS.DB\obj\Debug\refactor.xml
+C:\Users\liangm\Documents\GitHub\MBMS\MBMS\MBMS.DB\obj\Debug\postdeploy.sql
+C:\Users\liangm\Documents\GitHub\MBMS\MBMS\MBMS.DB\obj\Debug\predeploy.sql
